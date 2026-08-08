@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-t21brv.inatogel8xaf.cfd/sitemap.xml
